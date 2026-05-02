@@ -1,4 +1,4 @@
-# Exercício 04: Tabuada 
+# Exercício 04: Descobrir o fatorial de um número
 
 N = int(input())
 fatorial = 1
