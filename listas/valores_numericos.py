@@ -1,4 +1,4 @@
-# Exercício 1: Lê 5 valores,armazena na lista e exibe o maior e menor com suas posições
+# Exercício 1: Lê 5 valores, armazena em uma lista e exibe o maior e menor com suas posições
 
 numeros = []
 for i in range(5):

@@ -1,4 +1,4 @@
-
+# Exercício 3: Lê 5 valores e insere cada um na posição correta sem usar sort
 numeros = []
 for i in range(5):
     valor = int(input("Digite um valor: "))
