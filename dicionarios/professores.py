@@ -1,3 +1,5 @@
+# Exercício 1: Cadastro de professores de uma escola com exibição de dados
+
 escola = []
 professor1 = {"nome": "Gustavo",
            "sexo": "M",
