@@ -1,3 +1,4 @@
+# Exercício 2: Cadastro de produtos do mercado e cálculo do valor total da compra
 
 mercado = []
 produto1 = {"nome": "carne",
